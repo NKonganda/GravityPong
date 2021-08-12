@@ -1,1 +1,1 @@
-"# GravityPong" 
+Run main.cpp to play.
