@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "win_build",
+			"command": "g++ main.cpp -o main -L. -lSDL2main -lSDL2 -lSDL2_ttf & main.exe",
+			
+		}
+	]
+}
